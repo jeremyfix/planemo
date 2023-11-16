@@ -58,7 +58,7 @@ Basics - Galaxy
 
 This quick start will assume you have a directory with one or more Galaxy
 tool XML files. If no such directory is available, one can be quickly created for
-demonstrating ``planemo`` as follows ``project_init --template=demo mytools; cd mytools``.
+demonstrating ``planemo`` as follows ``planemo project_init --template=demo mytools; cd mytools``.
 
 Planemo can check tool XML files for common problems and best
 practices using the ``lint`` `command <http://planemo.readthedocs.org/en/latest/commands.html#lint-command>`_
